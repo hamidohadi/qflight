@@ -1,19 +1,19 @@
 +++
 # Projects widget.
-widget = "projects"
+widget = "team"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Projects"
+title = "Team"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 3
+weight = 4
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "people"
 
 # View.
 # Customize how projects are displayed.
